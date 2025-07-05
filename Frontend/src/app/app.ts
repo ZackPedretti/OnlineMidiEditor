@@ -5,8 +5,8 @@ import { RouterOutlet } from '@angular/router';
   selector: 'app-root',
   imports: [RouterOutlet],
   templateUrl: './app.html',
-  styleUrl: './app.scss'
+  styleUrl: './app.sass'
 })
 export class App {
-  protected title = 'OnlineMidiEditorFrontend';
+  protected title = 'Frontend';
 }
